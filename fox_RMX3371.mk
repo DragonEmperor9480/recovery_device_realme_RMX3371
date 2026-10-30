@@ -1,0 +1,17 @@
+#Build variables for realmeme GT neo 3T
+
+# Device type
+OF_VIRTUAL_AB_DEVICE := 1
+OF_AB_DEVICE_WITH_RECOVERY_PARTITION := 1
+
+# Screen and status bar
+OF_SCREEN_H := 2400
+OF_STATUS_H := 104
+OF_STATUS_INDENT_LEFT := 48
+OF_STATUS_INDENT_RIGHT := 48
+OF_HIDE_NOTCH := 1
+OF_CLOCK_POS := 1
+
+# Tools and identity
+OF_ENABLE_LPTOOLS := 1
+OF_MAINTAINER := Amrutesh

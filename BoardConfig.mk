@@ -218,3 +218,6 @@ BOARD_RAMDISK_USE_LZMA := true
 
 # TWRP Version
 TW_DEVICE_VERSION := YOGRaJ
+
+# OrangeFox
+include $(DEVICE_PATH)/fox_RMX3371.mk
