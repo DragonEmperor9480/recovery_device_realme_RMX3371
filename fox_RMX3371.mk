@@ -1,7 +1,7 @@
 #Build variables for realmeme GT neo 3T
 
 # Device type
-OF_VIRTUAL_AB_DEVICE := 1
+FOX_VIRTUAL_AB_DEVICE := 1
 OF_AB_DEVICE_WITH_RECOVERY_PARTITION := 1
 
 # Screen and status bar
